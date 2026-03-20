@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎯 I'm a passionate developer and tech enthusiast constantly exploring new technologies and solving interesting problems.<br>💼 I'm currently working on innovative projects and building meaningful solutions.<br>🤝 I'm looking to collaborate on open-source projects and exciting initiatives that make a real impact.<br>💡 I'm looking for help with optimising code performance and best practices in software development.<br>📚 I'm currently learning advanced concepts in web development, cloud technologies, and system design.<br>💬 Ask me about web development, problem-solving, or anything tech-related - I'm always happy to chat!<br>⚡ Fun fact: I believe in continuous learning and that every bug fixed is a lesson learned!
 
 
